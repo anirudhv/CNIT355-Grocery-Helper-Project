@@ -106,7 +106,7 @@
             android:layout_weight="1"
             android:background="@color/greenYellow"
             android:onClick="FifthActivity"
-            android:text="Recipes"
+            android:text="Recipe Info"
             android:textColor="@color/dark_olive_green"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintLeft_toLeftOf="parent"
@@ -152,6 +152,5 @@
             app:layout_constraintTop_toTopOf="parent" />
 
     </TableRow>
-
 
 </RelativeLayout>
